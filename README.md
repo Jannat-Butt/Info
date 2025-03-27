@@ -13,6 +13,10 @@ The dataset contains 665,670 URLs with extracted features. Labels include:
 - **Spam**: 14,479
 
 Data imbalance is handled using **SMOTETomek** to improve model performance.
+<p align="center">
+    <img src="./images/imbalance.png" alt="Imbalanced Dataset Image" width="45%"/>
+    <img src="./images/balanced.png" alt="Balanced Dataset Image" width="45%"/>
+</p>
 
 ---
 
