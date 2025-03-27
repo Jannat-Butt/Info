@@ -90,6 +90,11 @@ To compare model effectiveness, the following visualizations were generated:
 - **ROC Curves**: Demonstrated the discriminatory power of models.
 - **Feature Importance Graphs**: Highlighted key features influencing predictions.
 
+<p align="center">
+    <img src="./images/roc-ml.png" alt="ROC Between RF and XgBoot" width="45%"/>
+    <img src="./images/roc-lstm.png" alt="ROC for LSTM Image" width="45%"/>
+</p>
+
 Most useful features identified for predicting labels included **URL length, subdomain count, and frequency of special characters**.
 
 ---
