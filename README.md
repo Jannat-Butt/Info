@@ -19,6 +19,8 @@ Data imbalance is handled using **SMOTETomek** to improve model performance.
 ## Exploratory Data Analysis (EDA)
 Descriptive statistics were generated to reveal variations in URL structures. Malicious URLs exhibited distinct characteristics such as excessive use of special characters, longer lengths, and multiple subdomains.
 
+![Alt text](./images/eda.png)
+
 ### Visualizations:
 - **URL Length Distribution**: Showed a clear distinction between benign and malicious URLs.
 - **Frequency of Special Characters**: Identified patterns in phishing and spam URLs.
