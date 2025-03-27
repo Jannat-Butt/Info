@@ -6,11 +6,11 @@ This project applies machine learning models to classify URLs into categories su
 ## Dataset and Preprocessing
 The dataset contains 665,670 URLs with extracted features. Labels include:
 
-- **Benign**: 428,103
-- **Defacement**: 96,457
-- **Phishing**: 94,111
-- **Malware**: 32,520
-- **Spam**: 14,479
+- **Benign-0**: 385524
+- **Defacement-3**: 84345
+- **Phishing-1**: 84345
+- **Malware-2**: 18506
+- **Spam-4**: 12784
 
 Data imbalance is handled using **SMOTETomek** to improve model performance.
 <p align="center">
