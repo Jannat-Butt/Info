@@ -1,4 +1,4 @@
-# README: URL Classification with Machine Learning
+# README: URL Classification with Machine Learning and DL
 
 ## Project Overview
 This project applies **machine learning models** to classify URLs into categories such as **benign, phishing, defacement, malware, and spam**. The dataset is preprocessed, and multiple models, including **Random Forest (RF), XGBoost (XGB), and LSTM**, are trained and evaluated.
