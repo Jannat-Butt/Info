@@ -73,6 +73,8 @@ Three categories of models were employed for malicious URL detection:
 - **Highest computational cost**
 - Comparatively **lower F1-score** than the above three models.
 
+![Alt text](./images/f1.png)
+
 ---
 
 ## Results Visualization
