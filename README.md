@@ -91,9 +91,16 @@ To compare model effectiveness, the following visualizations were generated:
 - **Feature Importance Graphs**: Highlighted key features influencing predictions.
 
 <p align="center">
-    <img src="./images/roc-ml.png" alt="ROC Between RF and XgBoot" width="45%"/>
-    <img src="./images/roc-lstm.png" alt="ROC for LSTM Image" width="45%"/>
+    <figure>
+        <img src="./images/roc-ml.png" alt="ROC Between RF and XGBoost" width="45%"/>
+        <figcaption>Figure 1: ROC Curve for RF vs XGBoost</figcaption>
+    </figure>
+    <figure>
+        <img src="./images/roc-lstm.png" alt="ROC for LSTM" width="45%"/>
+        <figcaption>Figure 2: ROC Curve for LSTM</figcaption>
+    </figure>
 </p>
+
 
 Most useful features identified for predicting labels included **URL length, subdomain count, and frequency of special characters**.
 
