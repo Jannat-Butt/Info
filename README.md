@@ -36,6 +36,9 @@ Feature engineering played a crucial role in enhancing model performance. Key ex
 - **NLP-based Embeddings**: TF-IDF captured word relevance within URLs.
 - **Sequence-based Extraction**: Character-level tokenization helped identify deceptive URL structures.
 
+### UseFull Features
+![Alt text](./images/features.png)
+
 ---
 
 ## Machine Learning & LLM-Based Models
